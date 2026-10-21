@@ -3,3 +3,8 @@ cd: Dizin degistirir.
 mkdir: Yeni klasor olusturur.
 pwd: Bulunulan dizinin yolunu gosterir.
 rm: Dosya veya dizin siler.
+git init: Yeni bir Git reposu baslatir.
+git status: Calisma dizinindeki dosyalarin durumunu gosterir.
+git add: Dosyalari staging area'ya ekler.
+git commit: Staging area'daki degisiklikleri kalici olarak kaydeder.
+git push: Yerel commit'leri uzak repoya (GitHub) gonderir.

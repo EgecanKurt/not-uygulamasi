@@ -8,3 +8,4 @@ git status: Calisma dizinindeki dosyalarin durumunu gosterir.
 git add: Dosyalari staging area'ya ekler.
 git commit: Staging area'daki degisiklikleri kalici olarak kaydeder.
 git push: Yerel commit'leri uzak repoya (GitHub) gonderir.
+git branch: Dallari listeler ve yeni dal olusturur.
